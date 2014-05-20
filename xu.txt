@@ -2,8 +2,4 @@ Git is a distributed version control system.
 Git is free software under GPL.
 Git has a multable index called stage.
 Git tracks changes of files .
-<<<<<<< HEAD
 create a new branch dev and  nice
-=======
-create a new branch dev and nice
->>>>>>> newt
